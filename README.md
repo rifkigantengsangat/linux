@@ -28,3 +28,7 @@
 7.node js
 8.
 
+jalanin php
+start =sudo /opt/lampp/lampp stop
+stop = sudo /opt/lampp/lampp stop
+run aplikasi = sudo /opt/lampp/manager-linux-x64.run
