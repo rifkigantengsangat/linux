@@ -32,3 +32,5 @@ jalanin php
 start =sudo /opt/lampp/lampp stop
 stop = sudo /opt/lampp/lampp stop
 run aplikasi = sudo /opt/lampp/manager-linux-x64.run
+google-chrome --user-data-dir="/var/tmp/Chrome" --disable-web-security --disable web security
+
